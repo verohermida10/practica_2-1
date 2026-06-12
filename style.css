@@ -10,6 +10,10 @@ body {
 .contenedor-img {
     height: 600px;
 }
+#contenedor-adopcion{
+    display: flex;
+    flex-wrap: wrap;
+}
 #contenedor-carousel {
     display: grid;
    
